@@ -12,7 +12,7 @@
  * сам слайдер http://dev7studios.com/plugins/nivo-slider/
  * ------------------------------------------------------------------------------
  */
-function smarty_function_slidernivo ($params, &$smarty) {
+function smarty_function_slidernivo ($params, &$smarty) { // var_dump($params);
 
 	$disp='
 	<div class="slider-wrapper">

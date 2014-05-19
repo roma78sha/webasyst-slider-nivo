@@ -13,13 +13,13 @@ position: relative
 }
 .nivoSlider {
 position: relative;
-height:473px;
+height:382px;
 width: 940px;
 margin: 0 auto
 }
 #slider .nivo-imageLink{
 display: block;
-height:473px;
+height:382px;
 width: 940px
 }
 .nivoSlider img {
@@ -27,7 +27,7 @@ position:absolute;
 top:0px;
 left:0px;
 max-width: none;
-height:473px
+height:382px
 }
 .nivo-main-image {
 display: block !important;
@@ -135,8 +135,8 @@ margin-right:3px;
 text-indent: -9999px;
 display: block;
 float: left;
-width: 16px;
-height: 15px
+width: 11px;
+height: 11px
 }
 .nivo-controlNav a.active {
 background-position: center bottom;
