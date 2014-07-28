@@ -9,7 +9,7 @@ Nivo Slider for Webasyst   Author: Shulyak Roman
 Установка:
 1. сделать БЭКАП файлов и базы данных!!!
 2. скопировать содержимое папки [copy] в корень движка.
-2. загружаем изображения через Админка-Магазин-Дизайн-Загрузка изображений
+3. загружаем изображения через Админка-Магазин-Дизайн-Загрузка изображений
   (published\publicdata\---YOU---\attachments\SC\images)
 
 I. объявляем в шаблоне, например в \published\publicdata\---YOU---\attachments\SC\themes\---you theme---\home.html 

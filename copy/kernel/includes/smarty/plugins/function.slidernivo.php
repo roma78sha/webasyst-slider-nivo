@@ -3,11 +3,11 @@
  * WebAsyst Plugin
  * -----------------------------------------------------------------------------
  * Type:     function
- * Name:     webasyst slider nivo 1.2 beta free 
- * Purpose:  for slider Nivo
+ * Name:     webasyst slider nivo 1.2 beta free как есть
  * Author:   Shulyak Roman
  * Description: бесплатная Open source "оболочка" для слайдера Nivo,
  *              предназначенная только для облегчения установки его на webasyst 
+ *
  *
  * сам слайдер http://dev7studios.com/plugins/nivo-slider/
  * ------------------------------------------------------------------------------
